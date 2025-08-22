@@ -127,14 +127,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ⭐ If you like this project, give it a **star** on GitHub — it helps a lot! ⭐
 
-```
-
----
-
 ⚡ This style makes your repo **attractive & professional**:  
 - Emojis ✅  
 - Clear sections ✅  
 - Easy to follow ✅  
 
-Do you want me to also add a **cool project banner/logo image section at the top** (like big projects have)?
-```
