@@ -1,0 +1,45 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# iOS/Xcode related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+DerivedData/
+
+# Android related
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# Google/Firebase configs
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# VS Code / IntelliJ / IDEA
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.lock
+*.DS_Store
