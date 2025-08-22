@@ -1,15 +1,7 @@
-Perfect 👍 Let’s make your **GitHub README** stand out with a modern, polished look and good use of emojis 🎉.
-Here’s a **professional but attractive** `README.md` you can drop into your repo:
-
----
-
-````markdown
 # 📹 Zoom Clone App
 
 A **Flutter-based video conferencing app** 🎯 that replicates Zoom’s core features using **Jitsi Meet** + **Firebase**.  
 Seamlessly create, join, and manage meetings with an elegant UI.
-
----
 
 ## ✨ Features
 
@@ -19,8 +11,6 @@ Seamlessly create, join, and manage meetings with an elegant UI.
 ✅ Cross-Platform: Android | iOS | Web | Desktop  
 ✅ Modern Zoom-like UI with smooth experience  
 
----
-
 ## 🛠️ Tech Stack
 
 - **Flutter** (Dart) 🐦  
@@ -28,7 +18,6 @@ Seamlessly create, join, and manage meetings with an elegant UI.
 - **Jitsi Meet Wrapper** 📹 (real-time meetings)  
 - State Management: Provider / Your chosen method  
 
----
 
 ## 🚀 Getting Started
 
@@ -131,7 +120,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 💌 Contact
 
-📧 Email: `youremail@example.com`
+📧 Email: `ompethani482@gmail.com`
 👨‍💻 GitHub: [@ompethani07](https://github.com/ompethani07)
 
 ---
